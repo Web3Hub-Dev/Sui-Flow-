@@ -1,17 +1,15 @@
-# 星航计划加入申请表
+# 加入申请表
 
 ### 个人介绍
 
 * Github ID: [张三](https://github.co/张三)
 
-* Telegram ID:
-
-* Discord ID:
 
 (首次如果没有，学习完毕钱包在填写)
-* Sui 账号地址: 
+* Sui testnet 地址（用来检查任务）: 
+* Sui mainnet 地址（用来发奖给励）: 
 
-自由职业者
+* 技术栈：
 
 ### 学习日志
 
@@ -24,15 +22,13 @@ Roadmap  1
 - 项目源码: [repo](https://github.com/xxx)
 - 发布的packageid
 
-package1:
-
-package2: 
-
-
+task1
+* packageid:
+* nft的hash：
 
 
-2.
+task2
 
 
-3. 
 
+task3
