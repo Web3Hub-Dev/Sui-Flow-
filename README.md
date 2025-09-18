@@ -1,7 +1,6 @@
 <div align="center">
-  <h1>StarTrek Move Bootcamp</h1>
+  <h1>Sui Flow Online
 
- <p> 星航计划的目标是构建一个学习社区, 引导新入门或者未入门的Move编程的小伙伴一起探索 Web3 宇宙。取名 StarTrek 既代表“星航计划”，同时也是向 <a href="https://en.wikipedia.org/wiki/Star_Trek">Star Trek<a> 致敬。</p>
 
  <p>
     <a href="https://t.me/movefunsdao"><img src="https://img.shields.io/badge/telegram-blue?color=blue&logo=telegram&logoColor=white" alt="Telegram group" /></a>
@@ -22,25 +21,7 @@ Move 语言作为最安全的编程语言之一，在资产的安全性和保护
 
 
 
-星航计划完全免费，并致力于帮助学习者"Learn To Earn"。我们为学习者设计了一条清晰的学习路线，并设立了多级的里程碑奖励计划 [ 最高奖励可达1000元 ]，旨在帮助新手了解 Move 语言的原理和应用。
 
-## 电报群
-- Sui [Sui 中文](https://t.me/sui_dev_cn)
-- MoveFuns Dao [MoveFuns Dao](https://t.me/movefunsdao)
-- [QQ 群](https://qm.qq.com/q/ULBeaQ9ws0): 79489587
-
-## [Github Discussion](https://github.com/movefuns/SuiStartrek/discussions) 使用方法
-
-| Categories                                                   | description                                                  |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [🍪Materials](https://github.com/movefuns/SuiStartrek/discussions/categories/materials) | 学习材料分享:  Sui Move 优质资料(文章/书籍/课程...)    |
-| [🙏 Q&A](https://github.com/movefuns/SuiStartrek/discussions/categories/q-a) | 提问 / 答疑                                                  |
-| [🔧Tricks & Tools](https://github.com/movefuns/SuiStartrek/discussions/categories/tricks-tools) | 值得分享的小技巧/小工具<br /> |
-| [💡Ideas](https://github.com/movefuns/SuiStartrek/discussions/categories/ideas) | 课程结尾关于 星航计划 的一些 Amazing fancy ideas, 用来<br />1. 好的想法，寻找开发伙伴 <br />2. 参与下一期星航计划 <br />3. ... |
-
-## Workshop & video tutorial
-
-[视频资料](https://github.com/movefuns/SuiStartrek/blob/main/video.md)
 
 ## 学习方向
 
@@ -62,17 +43,6 @@ Move 语言作为最安全的编程语言之一，在资产的安全性和保护
     - 学习 Move 智能合约
     - 学习 Move 语言的实现以及虚拟机
 
-## 学习资料
-
-- 收集好的中文学习资料 [learning sui](https://github.com/movefuns/learning-sui)
-- Sui Move导论 [Book中文](https://intro-zh.sui-book.com/) [repo中文](https://github.com/RandyPen/sui-move-intro-course-zh)
-  [Book英文](https://intro.sui-book.com/) [repo英文](https://github.com/sui-foundation/sui-move-intro-course)
-- [Sui Book 中文](https://sui-book.com/)
-- [Sui Move By Example 中文](https://examples.sui-book.com)
-- [Sui Move By Example 英文](https://examples.sui.io/)
-- [Sui Docs](https://docs.sui.io/build)
-- [Sui Developer Portal](https://sui.io/developers)
-- [Move Book 中文](https://move-book.com/cn/)
 
 ## 注册钱包
 
@@ -83,54 +53,4 @@ Move 语言作为最安全的编程语言之一，在资产的安全性和保护
 - [Ethos Wallet](https://ethoswallet.xyz/)
 当你注册好钱包就可以开启 Web3 之旅了，接下来介绍参与方式。
 
-## 如何参与
 
-1. 加入 [Sui 开发者中文 Telegram](https://t.me/sui_dev_cn)
-2. Fork 本仓库，复制 [members/githubid](./members/githubid) 目录名为 `members/$your_github_id`，根据自己的信息编辑其中的 `readme.md` 内容，并提交 Pull Request 给本仓库，报名成功。
-3. 学习过程中可以持续更新该文件的学习日志，以及学习成果。如果学习过程中问题，可以在群里讨论。如果需要一些练习任务，但又找不到合适的，可以咨询导师。
-4. 如果感觉自己的学习成果可以毕业了，可以评论中 @ 导师，由导师 review 过后合并进仓库，标识 Learn 的阶段结束。MoveFuns DAO 给予奖励（MoveFuns DAO 成立之前先由导师代发）。
-5. 考虑不同的人的业余学习时间有差异，所以整体的学习周期不设置时间限制。如果想中途结束，可以直接关闭 Pull Request。当然，长期（一个月以上）不活跃的 Pull Request 也会被视为中途退出。
-6. 有任何建议或者问题可以提交到 [Discussions · web3startrek](https://github.com/movefuns/web3startrek/discussions) 讨论。
-
-## 毕业标准
-
-### Milestone & 奖励
-
-- 技术需要涉及 Move + (Web|Rust|Other Language).
-
-- 🥉 初级 `￥30`等值的 `SUI`
-  - 完成第一个简单的Move智能合约
-  - 成功部署到测试网络
-  - 提交认证：
-
-- 🥈 高级 `￥100`等值的 `SUI`
-  - 完成一个主网NFT的发布合约 ,并mint一个名称为自己githubid 名称或者微信名称名字的nft 图片用自己的github头像或者微信头像
-  - 需要提交合约到仓库, 需要提交mint的nft id
-  - 完成一个简单小游戏 ，并且能通过命令行调用或者网页端调用 和合约比大小 ，石头剪刀布等都可以 不追求完全正确，但是要可玩
-  - 需要提交合约到仓库 学习记录要记录怎能从命令行调用
-  - 提交认证：
-
-- 🏅 终级 `￥1000`等值的 `SUI`
-  - 发布 Move 相关的学习笔记[文章或者视频]
-  - 成为 Maintainer，并主持至少一次 Office Hour [如何成为 Maintainer](https://www.notion.so/Maintainer-629b476e32d84f7da9faaeef40b3e259?pvs=21)
-  - 以上两项需要满足一项
-
-  - 给生态贡献了新的独立的 Move modules
-  - 对 Move 生态项目 [Sui](https://github.com/MystenLabs/sui)（[move-language](https://github.com/move-language),[movefuns](https://github.com/movefuns)） 有 PR 贡献，mentor 会评估 PR 的复杂度
-  - 开发出具有创新性的Sui Move应用(团队或个人）
-  - 以上三项需要满足一项
-  - 提交认证：
-
-- ⛳ 生态建设奖励 `惊喜`
-  - 对 [MystenLabs](https://github.com/MystenLabs) 下的项目有重要的 PR 贡献：额外奖励 ￥500等值的`SUI`
-  - 提交认证
-
-- 🍎 `iphone 15`
-  - 对贡献最多的团队或个人奖励苹果15一台
-
-## 经济模型
-
-在传统的学习方式里，都是学生付费给学校或者培训机构，没有反过来通过学习来 **Earn** 的道理。
-但我们同时也可以发现，企业招聘需要花费很高的成本来筛选合适的人才，培训新员工。
-新的技术发明方，想在市场中推广新技术，也要花费很高的成本。
-如果我们把几方结合起来，**Learn** 的过程也就是筛选人才的过程，也是培训员工的过程，还是推广技术的过程，就可以实现 **LearnToEarn**，这种方式尤其适合开源项目。
