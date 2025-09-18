@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Sui Flow Online /h1>
+  <h1>Sui Flow Online/h1>
 
  <p> Sui Flow 的目标是构建一个学习社区, 引导新入门或者未入门的Move编程的小伙伴一起探索 Web3 宇宙。取名 StarTrek 既代表“星航计划”，同时也是向 <a href="https://en.wikipedia.org/wiki/Star_Trek">Star Trek<a> 致敬。</p>
 
