@@ -9,9 +9,10 @@
 * Discord ID:
 
 (首次如果没有，学习完毕钱包在填写)
-* Sui 账号地址: 0x73cc0ae26d786e8664ad129ecf9dd6df263fa57b198b0db5074780ce43e58bb9
+* Sui testnet 地址（用来检查任务）: 0x73cc0ae26d786e8664ad129ecf9dd6df263fa57b198b0db5074780ce43e58bb9
+* Sui mainnet 地址（用来发奖给励）: 0x73cc0ae26d786e8664ad129ecf9dd6df263fa57b198b0db5074780ce43e58bb9
 
-自由职业者
+* 技术栈：C++, TypeScript, PHP
 
 ### 学习日志
 
