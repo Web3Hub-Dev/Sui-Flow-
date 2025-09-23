@@ -2,7 +2,7 @@
 
 ### 个人介绍
 
-- Github ID: [张三](https://github.com/C-cr)
+- Github ID: C-cr(https://github.com/C-cr)
 
 (首次如果没有，学习完毕钱包在填写)
 
@@ -19,12 +19,12 @@
 
 Roadmap  1  
 
-- 项目源码: [repo](https://github.com/C-cr/my_first_project)
+- 项目源码: (https://github.com/C-cr/my_first_project)
 - 发布的packageid
 
 task1
 
-- packageid:0x934626a4ac668babb0e9dd84e3cc48bb582dfc4303b39327a1f79f4837debf2f
+- packageid: 0x934626a4ac668babb0e9dd84e3cc48bb582dfc4303b39327a1f79f4837debf2f
 - nft的hash：F4f3yh2HwcQwakgD3vdwjLaT5utbWjZKLw5Q81QZuEm2
 
 task2
