@@ -10,7 +10,9 @@
 
 (首次如果没有，学习完毕钱包在填写)
 
-- Sui 账号地址: 0xaf0e50c4619f5bdbcda69b33807b32088d53c8bcc928e5ee3fb343bb3f37492e
+- Sui testnet 地址（用来检查任务）: 0xa7a2f048dd6d6e331d6de83cdd329859a7d1b68e709861657b4304610f3bccf9
+
+- Sui mainnet 地址（用来发奖给励）: 0xaf0e50c4619f5bdbcda69b33807b32088d53c8bcc928e5ee3fb343bb3f37492e
 
 码农
 
