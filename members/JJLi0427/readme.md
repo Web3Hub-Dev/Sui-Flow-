@@ -8,7 +8,11 @@
 
 * Discord ID:
 
-* Sui 账号地址: 0x2bd7eb5b54d3953d3d4ab527205a58e47da1aa768a0b0720e82d69aa3388a289
+* Sui testnet 地址（用来检查任务）: 0x2bd7eb5b54d3953d3d4ab527205a58e47da1aa768a0b0720e82d69aa3388a289
+
+* Sui mainnet 地址（用来发奖给励）: 0x2bd7eb5b54d3953d3d4ab527205a58e47da1aa768a0b0720e82d69aa3388a289
+
+* 技术栈： C++, Python&Pytorch, Go
 
 自由职业者
 
