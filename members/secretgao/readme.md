@@ -8,8 +8,11 @@
 
 * Discord ID:
 
-(首次如果没有，学习完毕钱包在填写)
-* Sui 账号地址: 
+Sui testnet 地址（用来检查任务）: 0x7bb8f8b7bb38ad37de7cdd4d9897245c8c85b886aed673b2962363433033908a
+
+Sui mainnet 地址（用来发奖给励）: 0xa425f37c3bf4ff138609df5100ce50d015fa6ae8f3d0319a4541e17c136dc6dc
+
+技术栈：Ts/Move/go/php/Rust
 
 自由职业者
 
